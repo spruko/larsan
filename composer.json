@@ -1,0 +1,22 @@
+{
+    "name": "laravel-lara/larsan",
+    "description": "Description",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "laravelLara\\larsan\\": "src/",
+            "laravelLara\\larsan\\Console\\Commands\\": "src/Files"
+        },
+        "files": [
+            "src/utils/CustomFunctions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "spruko",
+            "email": "dev@team.spruko.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
