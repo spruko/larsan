@@ -1,8 +1,5 @@
 <?php
 
-
-namespace laravelLara\larsan\Http\Controllers;
-
 /**
  * Class constructor.
  */

@@ -1,6 +1,5 @@
 <?php
 
-namespace laravelLara\larsan\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use App\Helper\Installer\InstallFileCreate;
